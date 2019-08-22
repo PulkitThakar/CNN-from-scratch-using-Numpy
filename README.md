@@ -12,11 +12,11 @@ The present written code will terminate once the accuracy crosses 85% and will s
 
 Details of the internship:
 
-Guide: Dr. Girish Varma
+Guide: Dr. Girish Varma (Homepage: https://girishvarma.in)
 
 At: IIIT Hyderabad
 
 Topic: Machine Learning and its theory
 
-Participants: Pulkit Thakar(GitHub: PulkitThakar),
+Participants: Pulkit Thakar (GitHub: PulkitThakar),
               Srinidhi Kulkarni (GitHub: SrinidhiKulkarni28)
