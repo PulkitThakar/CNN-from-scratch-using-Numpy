@@ -10,6 +10,8 @@ The accuracy which will be attained by running this code will depend on the numb
 
 The present written code will terminate once the accuracy crosses 85% and will show the accuracy on the test set (the limit of 85% can be altered).
 
+The code was run on Google Colab. Link: https://colab.research.google.com/drive/1Sx-e10vP6oaSQNBjakBXW1BkQe4bdmWb?usp=sharing
+
 Details of the internship:
 
 Guide: Dr. Girish Varma (Homepage: https://girishvarma.in)
